@@ -3,8 +3,8 @@ Persistent calculator
 
 Members:
 
-Marabe
-Misajon
-Orencia
-Samuya
-Sonquipal
+Marabe\
+Misajon\
+Orencia\
+Samuya\
+Sonquipal\
